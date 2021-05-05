@@ -1,5 +1,0 @@
-import os
-os.chdir('C:\-Machine-learning-models-of-inhibition-efficiency-IE-prediction-')
-os.system('git add -A')
-os.system("git commit -m 'update'")
-os.system('git push')
